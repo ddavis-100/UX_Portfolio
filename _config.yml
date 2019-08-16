@@ -3,7 +3,7 @@ logo: "/images/unnamed.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  About me: 
   <br>I’m a cognitive researcher with a passion for creating and discovering associations through data exploration using statistics and machine learning.<br>
-  <br>My research informs technology built for the holistic user. My qualitative and quantitative research informs technology built for the holistic user. I strive to not only understand users pain points but also where a product fits into their lives because product success is only achieved when this is understood. My work in user research includes usability testing, survey design, experimental design, personas, and user maps among other methods. <br>
+  <br>My research informs technology built for the holistic user. My work in user research includes usability testing, survey design, experimental design, personas, and user maps among other methods. <br>
   <a href="https://www.linkedin.com/in/dominiquecdavis/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
