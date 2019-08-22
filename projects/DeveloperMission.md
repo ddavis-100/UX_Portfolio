@@ -1,7 +1,6 @@
-### Category Name 1 
+### Developer Experience
 
-[Developer Experience]
-<img src="images/DevExperienceImg.jpg?raw=true"/>
+![Image](https://github.com/ddavis-100/UX_Portfolio/blob/master/images/DevExperienceImg.jpg)
 
 
 
