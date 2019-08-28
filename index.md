@@ -1,21 +1,21 @@
 ### Developer Mission ### 
 
-![images/DevExperienceImg.jpg](https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
+![https://github.com/ddavis-100/UX_Portfolio/images/DevExperienceImg.jpg?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
 
 
 ### Platform Tutorials ### 
 
-![https://github.com/ddavis-100/UX_Portfolio/images/DevTutorials.mov](https://ddavis-100.github.io/UX_Portfolio/projects/DevTutorial)
+![https://github.com/ddavis-100/UX_Portfolio/images/DevTutorials.mov?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DevTutorial)
 
 
 ### Developer Map ###
 
-![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/1*i00wc9Mn7C-DwEi4BZtsPw.png](https://ddavis-100.github.io/UX_Portfolio/projects/DevExperience)
+![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/1*i00wc9Mn7C-DwEi4BZtsPw.png?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DevExperience)
 
 
 ### Auditory Brain Game ###
 
-![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg](https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame)
+![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
