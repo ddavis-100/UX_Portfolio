@@ -8,7 +8,7 @@
 [![Image](images/DevTutorialsImg.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/PlatformTutorials)
 
 
-### Developer Map ###
+### Platform Map ###
 
 [![Image](images/1*i00wc9Mn7C-DwEi4BZtsPw.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/PlatformMap)
 
