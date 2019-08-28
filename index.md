@@ -1,7 +1,7 @@
 ### Developer Mission ### 
 
 
-!["/images/DevExperienceImg.jpg"](https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
+!["ddavis-100/UX-Porfolio/images/DevExperienceImg.jpg"](https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
 
 ### Platform Tutorials ### 
 
