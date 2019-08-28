@@ -1,21 +1,21 @@
 ### Developer Mission ### 
 
-![https://github.com/ddavis-100/UX_Portfolio/images/DevExperienceImg.jpg?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
+![Image](images/DevExperienceImg.jpg?raw=true)(https://ddavis-100.github.io/UX_Portfolio/projects/DeveloperMission)
 
 
 ### Platform Tutorials ### 
 
-![https://github.com/ddavis-100/UX_Portfolio/images/DevTutorials.mov?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DevTutorial)
+![Image](images/DevTutorialsImg.png?raw=true)(https://ddavis-100.github.io/UX_Portfolio/projects/DevTutorial)
 
 
 ### Developer Map ###
 
-![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/1*i00wc9Mn7C-DwEi4BZtsPw.png?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/DevExperience)
+![Image](images/1*i00wc9Mn7C-DwEi4BZtsPw.png?raw=true)(https://ddavis-100.github.io/UX_Portfolio/projects/DevExperience)
 
 
 ### Auditory Brain Game ###
 
-![https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg?raw=true](https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame)
+![Image](images/AudBrainGame.jpg?raw=true)(https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
