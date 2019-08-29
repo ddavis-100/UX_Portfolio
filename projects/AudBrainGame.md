@@ -7,6 +7,8 @@ Many veterans return home with auditory processing disorders due to traumatic br
 
 ## Solution
 
-Collaborated with neuroscientists, game designers, and computer scientists to design an auditory brain training game to improve complex sound (e.g. speech) processing. Designed user study of normal hearing participants to test whether they could distinguish sounds going up and down. Contributed preliminary auditory thresholds and findings from this study to game design as well as 
+Collaborated with neuroscientists, game designers, and computer scientists to design an auditory brain training game to improve complex sound processing (e.g. speech). Designed user study of normal hearing participants to test ability to distinguish sounds going up and down. Contributed preliminary auditory thresholds and findings from this study to game design as well as 
 
 ## Result
+
+Increased nationwide awareness of complex auditory processing deficits in veterans. 
