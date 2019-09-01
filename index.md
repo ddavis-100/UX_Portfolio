@@ -1,6 +1,6 @@
 ### Developer Mission ### 
 
-[![Image](images/DevExperienceImg.jpg?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/DevMission.md)
+[![Image](images/DevPersona.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/DevPersona.md)
 
 
 ### Platform Tutorials ### 
@@ -8,9 +8,9 @@
 [![Image](images/DevTutorialsImg.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/PlatformTutorials.md)
 
 
-### Platform Map ###
+### User Map ###
 
-[![Image](images/1*i00wc9Mn7C-DwEi4BZtsPw.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/PlatformMap.md)
+[![Image](images/UserMap.png?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/UserMap.md)
 
 
 ### Auditory Brain Game ###
