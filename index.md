@@ -15,7 +15,7 @@
 
 ### Auditory Brain Game ###
 
-[![Image](images/AudBrainGame.jpg?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame/index.md)
+[![Image](images/AudBrainGame.jpg?raw=true)](https://ddavis-100.github.io/UX_Portfolio/projects/AudBrainGame.md)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
