@@ -1,4 +1,4 @@
-## Auditory Brain Game ##
+## Auditory Brain Game -UCR Brain Games Center ##
 
 <img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg" width="700" height="500">
 
