@@ -1,6 +1,6 @@
-## Platform Map
+## User Map
 
-<img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/1*i00wc9Mn7C-DwEi4BZtsPw.png" width="500" height="500">
+<img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/User_Map.png" width="800" height="400">
 
 ## Challenge
 
