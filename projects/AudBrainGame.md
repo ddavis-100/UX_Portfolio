@@ -1,5 +1,5 @@
 ## Auditory Brain Game -UCR Brain Games Center ##
-![Image](images/AudBrainGame.jpg?raw=true)
+![Image](https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg?raw=true)
 
 
 ## Challenge
