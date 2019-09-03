@@ -1,6 +1,6 @@
 ## Auditory Brain Game -UCR Brain Games Center ##
+![Image](images/AudBrainGame.jpg?raw=true)
 
-<img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/AudBrainGame.jpg" width="700" height="500"/>
 
 ## Challenge
 Many veterans return home with auditory processing disorders due to traumatic brain injury. How can we help address this with the power of neuroscience and brain training?
@@ -12,5 +12,4 @@ Collaborated with neuroscientists, game designers, and computer scientists to de
 ## Result
 
 Increased nationwide awareness of complex auditory processing deficits in veterans. 
-
 
