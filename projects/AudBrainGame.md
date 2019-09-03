@@ -12,3 +12,6 @@ Collaborated with neuroscientists, game designers, and computer scientists to de
 ## Result
 
 Increased nationwide awareness of complex auditory processing deficits in veterans. 
+
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
