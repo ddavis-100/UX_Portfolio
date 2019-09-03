@@ -1,6 +1,6 @@
 ### Developer Persona
 
-![Image](https://github.com/ddavis-100/UX_Portfolio/blob/master/images/DevPersona.png")
+![Image](https://github.com/ddavis-100/UX_Portfolio/blob/master/images/DevPersona.png?raw=true)
 
 ## Challenge
 
