@@ -1,6 +1,6 @@
 ## User Map
 
-<img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/UserMap.png" width="800" height="400">
+<img src="https://github.com/ddavis-100/UX_Portfolio/blob/master/images/UserMap.png?raw=true" width="800" height="400">
 
 ## Challenge
 
